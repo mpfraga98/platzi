@@ -1,2 +1,0 @@
-# platzi
-Cursos de Platzi
